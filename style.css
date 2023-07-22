@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(18, 18, 34);
+}
+
+.home {
+    position: relative;
+    color: white;
+    font-size: 80px;
+    font-family:system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    background: linear-gradient(rgb(18, 18, 34), rgb(0, 108, 190))
+}
+
+.head {
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    left: 9cm;
+    top: 3.5cm;
+    border: solid;
+    border-radius: 10px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(0, 108, 190);
+}
+
+.t-shirt {
+    position: absolute;
+    color: white;
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    left: 15cm;
+    top: 3.5cm;
+    border: solid;
+    border-radius: 10px;
+    border-top: 0px ;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(0, 108, 190);
+}
+
+.hoodie {
+    position: absolute;
+    color: white;
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    left: 23cm;
+    top: 3.5cm;
+    border: solid;
+    border-radius: 10px;
+    border-top: 0px ;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(0, 108, 190);
+}
+
+.socks {
+    position: absolute;
+    color: white;
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    left: 29cm;
+    top: 3.5cm;
+    border: solid;
+    border-radius: 10px;
+    border-top: 0px ;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(0, 108, 190);
+}
+
+.recommendation {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    top: 3cm;
+}
+
+.head-2 {
+    position: absolute;
+    color: white;
+    border: solid;
+    border-radius: 7px;
+    border-color: rgb(0, 108, 190);
+    border-left: 0px;
+    border-top: 0px;
+    padding-top: 5cm;
+    padding-left: 5cm;
+    background: rgb(20, 20, 53);
+    top: 9cm;
+    left: 6cm;
+}
+
+.t-shirt-2 {
+    position: absolute;
+    color: white;
+    border: solid;
+    border-radius: 7px;
+    border-color: rgb(0, 108, 190);
+    border-left: 0px;
+    border-top: 0px;
+    padding-top: 5cm;
+    padding-left: 5cm;
+    background: rgb(20, 20, 53);
+    top: 9cm;
+    left: 14cm;
+}
+
+.hoodie-2 {
+    position: absolute;
+    color: white;
+    border: solid;
+    border-radius: 7px;
+    border-color: rgb(0, 108, 190);
+    border-left: 0px;
+    border-top: 0px;
+    padding-top: 5cm;
+    padding-left: 5cm;
+    background: rgb(20, 20, 53);
+    top: 9cm;
+    left: 22cm;
+}
+
+.socks-2 {
+    position: absolute;
+    color: white;
+    border: solid;
+    border-radius: 7px;
+    border-color: rgb(0, 108, 190);
+    border-left: 0px;
+    border-top: 0px;
+    padding-top: 5cm;
+    padding-left: 5cm;
+    background: rgb(20, 20, 53);
+    top: 9cm;
+    left: 30cm;
+}
